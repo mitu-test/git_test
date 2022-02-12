@@ -1,7 +1,7 @@
 print("hello,world!")
 print("xxxxxxxxxxxx")
 print("3333333333333223")
-print(26)
+print(20)
 print(21)
 print(23)
 print(34)
